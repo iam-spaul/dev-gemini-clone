@@ -49,3 +49,4 @@ terraform/gemini-instance-key.pub
 .vscode/
 
 guide-for-gemini-app-k8s.md
+.env
